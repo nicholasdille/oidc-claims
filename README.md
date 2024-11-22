@@ -45,3 +45,7 @@ Add `-debug` to display messages from the underlying libraries.
 ```shell
 go install github.com/nicholasdille/oidc-claims
 ```
+
+## Attributions
+
+This is based on the excellent [example project](https://github.com/int128/oauth2cli/tree/master/example) included with the [oauth2cli](https://github.com/int128/oauth2cli) project.
